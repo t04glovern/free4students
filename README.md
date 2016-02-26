@@ -2,7 +2,95 @@
 
 Detailed list of free software for ICT students and I guess students in general
 
----------------------------------------------------------------------------------------------------------
+---
+
+#### AutoDesk Education Community
+
+`Description:` A huge selection of education licensed products
+
+`Website:` [http://www.autodesk.com/education/free-software/all](http://www.autodesk.com/education/free-software/all)
+
+`Requirements:` A recognised email from your learning insitution
+
+`Included Software:`
+- 3ds Max
+- 3ds Max Extension
+- 3ds Max Design
+- Advance Concrete
+- Advance Steel
+- Alias AutoStudio
+- AutoCAD
+- AutoCAD Architecture
+- AutoCAD Civil 3D
+- AutoCAD Design Suite Ultimate
+- AutoCAD Electrical
+- AutoCAD for Mac
+- AutoCAD LT
+- AutoCAD LT for Mac
+- AutoCAD Map 3D
+- AutoCAD Mechanical
+- AutoCAD MEP
+- AutoCAD P&ID
+- AutoCAD Plant 3D
+- AutoCAD Raster Design
+- A360
+- Building Design Suite Ultimate
+- CFD Design Study Environment
+- CFD Flex
+- CFD Motion
+- Character Generator
+- Dynamo Studio
+- Entertainment Creation Suite Ultimate
+- Fabrication CADmep
+- Fabrication CAMduct
+- Fabrication ESTmep
+- Factory Design Suite Ultimate
+- Flow Design
+- FormIt 360
+- Fusion 360
+- Fusion 360 for Educational Institutions
+- Green Building Studio
+- Helius Composite
+- Helius PFA
+- HSMWorks Premium
+- Infrastructure Design Suite Ultimate
+- InfraWorks
+- InfraWorks 360
+- Inventor HSM Pro
+- Inventor Professional
+- Inventor Publisher
+- Lighting Analysis for Revit
+- Maya
+- Maya Extension
+- Maya LT
+- Maya LT Extension
+- Moldflow Adviser Ultimate
+- MotionBuilder
+- Mudbox
+- Nastran In-CAD
+- Navisworks Manage
+- Plant Design Suite Ultimate
+- Point Layout
+- Product Design Suite Ultimate
+- ReCap 360 Ultimate
+- Rendering in A360
+- Revit
+- Revit Extensions
+- Robot Structural Analysis Professional
+- Showcase
+- Simulation Mechanical
+- Sketchbook Pro for Business
+- Smoke
+- Softimage
+- Stingray
+- Structural Bridge Design
+- T-Splines Plug-in for Rhino
+- Vault Professional Client
+- Vehicle Tracking
+- Vault Professional Server
+- VRED Professional
+
+---
 
 #### GitHub Education Pack
 `Description:` Dozens of free resources from great companies to help students learn.
@@ -44,7 +132,28 @@ Detailed list of free software for ICT students and I guess students in general
 - [Unreal Engine](https://unrealengine.com)
   - Unreal Engine while you're a student
 
----------------------------------------------------------------------------------------------------------
+---
+
+#### Intel Developer Zone
+`Description:` Supporting qualified students, educators, academic researchers and open source contributors
+
+`Website:` [https://software.intel.com/en-us/qualify-for-free-software/student](https://software.intel.com/en-us/qualify-for-free-software/student)
+
+`Requirements:` A recognised email from your learning insitution.
+
+`Included Software:`
+- [Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++)](https://software.intel.com/en-us/intel-parallel-studio-xe)
+  - Includes high-performance compiler(s), libraries, parallel models, threading and vectorization advisor, VTune™ Amplifier performance profiler, memory/threading debugger, and more.
+- [Intel® Parallel Studio XE Composer Edition](https://software.intel.com/en-us/intel-parallel-studio-xe)
+  - Includes high-performance compiler(s), libraries, and parallel models.
+- [Intel® System Studio](https://software.intel.com/en-us/intel-system-studio)
+  - Ultimate Edition For Windows or Lunix.
+- [Intel® Video Pro Analyzer](https://software.intel.com/en-us/intel-video-pro-analyzer)
+  - A comprehensive tool to inspect, debug, and optimize the entire video decode and encode workflows.
+- [Intel® XDK](https://software.intel.com/en-us/intel-xdk)
+  - A free tool for developers that provides an integrated workflow with built-in tools to design, debug, and build a wide range of web and hybrid mobile apps for multi-OS app stores and various devices.
+
+---
 
 #### JetBrains
 `Description:` Get access to all desktop products including IntelliJ IDEA Ultimate, ReSharper Ultimate and other IDEs.
@@ -68,4 +177,43 @@ Detailed list of free software for ICT students and I guess students in general
 - [WebStorm](https://www.jetbrains.com/webstorm/download)
 - [DataGrip](https://www.jetbrains.com/dbe/download)
 
----------------------------------------------------------------------------------------------------------
+---
+
+#### Visual Studio Dev Essentials
+`Description:` Get everything you need to build and deploy your app on any platform. With state-of-the-art tools, the power of the cloud, training, and support, it’s our most comprehensive free developer program ever.
+
+`Website:` [https://www.visualstudio.com/en-us/products/visual-studio-dev-essentials-vs.aspx](https://www.visualstudio.com/en-us/products/visual-studio-dev-essentials-vs.aspx)
+
+`Requirements:` A valid microsoft account
+
+`Included Software:`
+- [Pluralsight](https://app.pluralsight.com)
+  - 6-month subscription
+- [VisualStudio Community](https://www.visualstudio.com)
+  - Visual Studio Community 2015
+- [VisualStudio Code](https://code.visualstudio.com)
+  - A powerful, streamlined code editor for your favorite platform - Linux, Mac OSX, and Windows
+- [Azure](https://manage.windowsazure.com/)
+  - $25 monthly Azure credit
+- [Microsoft R Server](https://msdn.microsoft.com/en-us/library/mt674634.aspx)
+  - Build advanced Analytics solutions in R on Windows, Hadoop, Terradata and Linux
+- [Xamarin University Mobile Training](https://xamarin.com)
+  - Build native iOS and Android apps in C# with expert getting-started videos
+- [HockeyApp](http://hockeyapp.net/)
+  - develop the world’s best apps for iOS, Android, OS X, and Windows on HockeyApp. Distribute beta versions, collect live crash reports, get feedback from real users and analyze test coverage. Free account.
+- [Parallels Desktop for Mac Pro](https://parallels.com/products/desktop/)
+  - Install other operating systems on your Mac to develop and test for any platform.
+- [Parallels Access](https://parallels.com/products/access/)
+  - The fastest, simplest, most reliable remote access to your computer from anywhere. 3-month subscription
+- [Power BI](https://powerbi.microsoft.com/tour)
+  - Transform your data into rich visuals for you to collect and organize. Note: work/school account is required.
+- [Office Online](https://support.office.com)
+  - Work on Office files with anyone, anywhere, in real time – for free.
+- [WintellectNOW](https://wintellectnow.com/Home/Login)
+  - On-demand training from the company that has trained thousands of Microsoft developers. 3-month subscription
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+  - Learn the latest technology, build your skills, and advance you career.
+- [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/)
+  - Comprehensive coverage of Microsoft technologies for practical solutions to real-world problems.
+- [HackHands](https://hackhands.com)
+  - $25 credit
